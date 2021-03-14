@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yudentsev AI-181 lab1 EN</string>
+    <string name="label_text">Enter your name:</string>
+    <string name="name_et_hint">name</string>
+    <string name="greeting_message">Hello, %s!</string>
+    <string name="greet_button_text">Greet!</string>
+    <string name="default_greet_message">Hello, stranger!</string>
+</resources>
